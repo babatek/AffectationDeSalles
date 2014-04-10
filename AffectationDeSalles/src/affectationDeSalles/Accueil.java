@@ -15,7 +15,7 @@ import java.awt.event.ActionListener;
 public class Accueil extends JFrame implements ActionListener{
 	
 	private JPanel container = new JPanel();
-	private JButton checking = new JButton("Checking");
+	private JButton checking = new JButton("Checking ! ");
 	private JButton affectation = new JButton("Affectation");
 	private static Accueil accueil = new Accueil();
 
